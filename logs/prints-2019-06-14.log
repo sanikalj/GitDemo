@@ -1,0 +1,9 @@
+aa13:47:06.865 [main] ERROR alpha.Demo - Error log
+13:47:06.868 [main] INFO  alpha.Demo - Info log
+13:47:06.868 [main] FATAL alpha.Demo - Fatal log
+10:07:05.823 [main] INFO  Academy.HomePage - Driver initialized successfully
+10:07:18.390 [main] INFO  Academy.HomePage - Driver closed successfully
+10:09:07.010 [main] INFO  Academy.HomePage - Driver initialized successfully
+10:09:07.014 [main] DEBUG Academy.HomePage - Debug
+10:09:07.014 [main] ERROR Academy.HomePage - Debug
+10:09:07.014 [main] FATAL Academy.HomePage - Debug

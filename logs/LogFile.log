@@ -1,0 +1,5 @@
+10:09:17.272 [main] INFO  Academy.HomePage - Driver closed successfully
+10:13:06.123 [main] INFO  Academy.HomePage - Driver initialized successfully
+10:13:06.128 [main] ERROR Academy.HomePage - Debug
+10:13:06.129 [main] FATAL Academy.HomePage - Debug
+10:13:14.983 [main] INFO  Academy.HomePage - Driver closed successfully
